@@ -61,7 +61,7 @@ Book added successfully!
 This project is open-source and available under the MIT License.
 
 ## Author
-- [Your Name](https://github.com/TechieRS)
+https://github.com/TechieRS
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
